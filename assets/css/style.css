@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  
+}
+#middle{
+margin-top: 80px;
+}
+.marketing{
+margin-top: 50px;
+}
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+.article {
+      word-wrap: break-word;      /* IE 5.5-7 */
+      white-space: -moz-pre-wrap; /* Firefox 1.0-2.0 */
+      white-space: pre-wrap;      /* current browsers */
+}
+.articlesList{
+margin-top : 80px;
+
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+ 
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}

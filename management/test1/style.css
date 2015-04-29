@@ -1,0 +1,88 @@
+
+
+body{
+font-family:"Comic Sans MS", cursive;
+background-color:#0099CC;
+font-size: 16px;
+}
+#add{
+
+margin-bottom:30px;
+background-color:#99FF99;
+text-align:center;    
+     margin-bottom:10px;
+     padding:1px 0 15px 0;
+	 	
+	 
+}
+#main{width:800px;
+    position:absolute;
+	left:350px;
+	font-size:12px;
+
+}
+#header{
+
+background-color:#99FF99;
+padding:10px;
+margin-bottom:15px;
+
+}	
+#cata{
+background-color:#99FF99;
+padding:15px;
+font-size:12px;
+border:1px solid white;
+}
+
+.News{
+padding:10px;
+
+
+
+}
+.Newsl{
+padding:8px;
+border-bottom:2px solid #FFFFFF;
+
+}
+
+#list{
+      font-size:18px;
+      background-color:#99FF99;
+      width:800px;
+      border:2px solid #FFFFFF;
+
+	  }
+	  #list tr td{ width:1000px;
+             text-align:center;
+			 padding:3px;
+} 
+.headlist{background-color:#CCAABB;
+}
+#addnews{background-color:#99FF99;
+         
+         float:left;
+         width:800px;
+}
+#addnews tr td{width:800px;
+            border:1px solid white;   
+	   font : serif;
+			}
+
+#config{background-color:#99FF99;
+			        font-size:16px;
+		}
+.con1{
+      text-align:right;
+      border:1px solid #FFFFFF;    
+}
+.con{text-align:center;}	
+#admin{position:absolute;
+           top:80px;
+		   left:350px;
+		   }
+
+#ads{
+background-color:#FFCCBB;
+}
